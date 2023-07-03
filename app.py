@@ -75,10 +75,7 @@ def main():
     - [Project Repo](https://github.com/barrymoana/PDFChatter)
  
     ''')
-        ## This webapp was developed by Barry Rerecich
-    - [GitHub](https://github.com/barrymoana)
-    - [Project Repo](https://github.com/barrymoana/PDFChatter)
-
+   
     OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]  
     os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY 
 
