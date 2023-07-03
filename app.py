@@ -69,7 +69,7 @@ def main():
     
     st.header('Chat With Your PDF')
 
-    load_dotenv()
+    OPENAI_API_KEY= st.secrets['openai_key'])
 
     #Upload PDF File
     pdf = st.file_uploader('Upload Your PDF', type='pdf')
