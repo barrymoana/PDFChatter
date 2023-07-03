@@ -41,7 +41,7 @@ with st.sidebar:
     - [OpenAI](https://platform.openai.com/docs/models) GPT-3.5-Turbo / Embeddings
 
     ## This webapp was developed by Barry Rerecich
-    - [GitHub](https://github.com/barrymoana)
+    - [Github](https://github.com/barrymoana)
     - [Project Repo](https://github.com/barrymoana/PDFChatter)
  
     ''')
@@ -70,8 +70,7 @@ def main():
     
     st.header('Chat With Your PDF')
     st.markdown('''
-    ## This webapp was developed by Barry Rerecich
-    - [GitHub](https://github.com/barrymoana)
+    - [Barry Rerecich GitHub](https://github.com/barrymoana)
     - [Project Repo](https://github.com/barrymoana/PDFChatter)
  
     ''')
