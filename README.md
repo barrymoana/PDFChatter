@@ -1,4 +1,4 @@
-[PDF Chatter App Link](https://barrypdfchatter.streamlit.app/)
+[PDF Chatter App Demo](https://barrypdfchatter.streamlit.app/)
 
 ## PDF-Based QA Chatbot with Streamlit and OpenAI
 
@@ -149,7 +149,7 @@ st.write(cb)
 
 This response is then displayed on the Streamlit interface for the user to view. The entire process can then be repeated for new queries or documents.
 
-[PDF Chatter App Link](https://barrypdfchatter.streamlit.app/)
+[PDF Chatter App Demo](https://barrypdfchatter.streamlit.app/)
 
 [Back to Top](#PDF-Based-QA-Chatbot-with-Streamlit-and-OpenAI)
 
