@@ -5,13 +5,15 @@
 This application serves as a PDF reader that ingests a PDF, breaks it into text chunks, vector embeds each chunk, then leverages the GPT chat model to extract a few relevant chunks and includes them into the prompt as context to answer user questions.
 
 ## Table of Contents
-- [Import Libraries]
-- [Download and Display PDF]
-- [Main Function]
-  - [OpenAI API Key]
-  - [PDF Upload and Processing]
-  - [Text Embedding & Persistence]
-  - [User Input and Question-Answering]
+- [Import Libraries](#import-libraries)
+- [Function to Download PDF](#function-to-download-pdf)
+- [Streamlit Sidebar Contents](#streamlit-sidebar-contents)
+- [Main Function](#main-function)
+  - [OpenAI API Key](#openai-api-key)
+  - [PDF Upload and Processing](#pdf-upload-and-processing)
+  - [Text Embedding](#text-embedding)
+  - [User Input and Question-Answering](#user-input-and-question-answering)
+
 
 ## Import Libraries
 
@@ -93,7 +95,7 @@ if pdf is not None:
 
 
 
-## Text Embedding & Persistence
+## Text Embedding
 The chunks of text are then vector embedded using OpenAI Embeddings and stored locally for later retrieval and comparison.
 ```python
 #Embedding using OpenAI
