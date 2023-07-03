@@ -33,6 +33,7 @@ def download_pdf():
 # Sidebar contents
 with st.sidebar:
     st.title('Chat with PDF using LLM')
+    st.markdown("[Github: barrymoana/PDFChatter](https://github.com/barrymoana/PDFChatter)")
     st.markdown('''
     ## About
     This app is an LLM-powered chatbot built using:
