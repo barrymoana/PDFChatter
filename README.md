@@ -19,6 +19,25 @@ This application serves as a PDF reader that ingests a PDF, breaks it into text 
 
 This section involves importing all necessary libraries to power the application, such as Python libraries for reading PDFs, creating a Streamlit web application, and specific modules for natural language processing tasks.
 
+They are listed in requirements.txt
+
+Run this in terminal of your python env
+```python
+pip install -r requirements.txt
+```
+List of libraries used in case requirements.txt does not work
+```python
+langchain
+PyPDF2
+streamlit
+faiss-cpu
+streamlit-extras
+openai
+```
+
+
+
+
 ```python
 import pickle
 import streamlit as st
