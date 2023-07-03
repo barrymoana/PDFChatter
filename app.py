@@ -53,9 +53,10 @@ with st.sidebar:
     st.markdown('''
     ## Example Questions:
     
-    - What is the supreme law of the land in the United States?
-    - Can you name the three branches of government?
-    - What is the purpose of the Bill of Rights?
+    - What is the supreme law of the land in the United States?\
+    - Give me a chicken salad recipe please
+    - What does the Fourth Amendment say about "search and seizure"?
+    - What is the role of the President according to the Constitution?
     - Which amendment guarantees the right to bear arms?
     ''')
 
