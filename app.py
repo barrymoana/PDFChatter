@@ -38,7 +38,7 @@ with st.sidebar:
     This app is an LLM-powered chatbot built using:
     - [Streamlit](https://streamlit.io/)
     - [LangChain](https://python.langchain.com/)
-    - [OpenAI](https://platform.openai.com/docs/models) GPT-3.5-Turbo
+    - [OpenAI](https://platform.openai.com/docs/models) GPT-3.5-Turbo / Embeddings
 
     ## This webapp was developed by Barry Rerecich
  
