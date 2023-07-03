@@ -1,6 +1,6 @@
 [PDF Chatter App Link](https://barrypdfchatter.streamlit.app/)
 
-# PDF-Based QA Chatbot with Streamlit and OpenAI
+## PDF-Based QA Chatbot with Streamlit and OpenAI
 
 This application serves as a PDF reader that ingests a PDF, breaks it into text chunks, vector embeds each chunk, then leverages the GPT chat model to extract a few relevant chunks and includes them into the prompt as context to answer user questions.
 
@@ -146,4 +146,10 @@ st.write(cb)
 ```
 
 This response is then displayed on the Streamlit interface for the user to view. The entire process can then be repeated for new queries or documents.
+
+[PDF Chatter App Link](https://barrypdfchatter.streamlit.app/)
+
+[Back to Top](#PDF-Based-QA-Chatbot-with-Streamlit-and-OpenAI)
+
+
 
