@@ -4,4 +4,3 @@ streamlit
 faiss-cpu
 streamlit-extras
 openai
-tiktoken
