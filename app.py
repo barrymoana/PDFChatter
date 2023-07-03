@@ -56,7 +56,6 @@ with st.sidebar:
     - What is the supreme law of the land in the United States?
     - Can you name the three branches of government?
     - What is the purpose of the Bill of Rights?
-    - How many amendments are there in the Constitution?
     - Which amendment guarantees the right to bear arms?
     ''')
 
