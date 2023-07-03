@@ -1,4 +1,4 @@
-https://barrypdfchatter.streamlit.app/
+[PDF Chatter App Link](https://barrypdfchatter.streamlit.app/)
 
 # PDF-Based QA Chatbot with Streamlit and OpenAI
 
