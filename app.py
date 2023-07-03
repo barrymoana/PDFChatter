@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 from streamlit_extras.add_vertical_space import add_vertical_space
 from langchain.text_splitter import RecursiveCharacterTextSplitter
