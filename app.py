@@ -10,6 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.callbacks import get_openai_callback
 import os
 from io import BytesIO
+import tiktoken 
 
 def download_pdf():
     # Create a BytesIO object to store the PDF data
