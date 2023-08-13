@@ -11,6 +11,8 @@ from langchain.callbacks import get_openai_callback
 import os
 from io import BytesIO
 
+pip install tiktoken
+
 
 def download_pdf():
     # Create a BytesIO object to store the PDF data
