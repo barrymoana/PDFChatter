@@ -91,7 +91,7 @@ os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 
 ## PDF Upload and Processing
-This section allows the user to upload a PDF file, which is then processed and split into text chunks using Langchain's RecursiveCharacterTextSplitter.
+This section allows the user to upload PDF file, which is then processed and split into text chunks using Langchain's RecursiveCharacterTextSplitter.
 
 ```python
 #Upload PDF File
